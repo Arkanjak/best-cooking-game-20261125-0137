@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sizzle &amp; Serve — Ember Lane Kitchen</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="wrap">
+  <header id="topbar">
+    <div class="brand">🍳 SIZZLE <span>&amp;</span> SERVE</div>
+    <div class="brand-sub">Ember Lane Kitchen — a tiny diner, a huge lunch rush</div>
+    <div id="dayClock" class="pill">DAY 1 · 3:00</div>
+    <div id="coinPill" class="pill gold">🪙 0</div>
+    <div id="comboPill" class="pill">🔥 COMBO ×1</div>
+  </header>
+  <div id="stage">
+    <canvas id="game" width="1280" height="720"></canvas>
+    <div id="toast"></div>
+    <div id="help">
+      <b>Move</b> WASD / Arrows &nbsp;·&nbsp; <b>Interact</b> E or Click &nbsp;·&nbsp; <b>Chop</b> mash E at the board &nbsp;·&nbsp; <b>Trash</b> carried food at the bin &nbsp;·&nbsp; <b>Restart</b> R
+    </div>
+  </div>
+  <footer id="foot">
+    <span>Grab ingredients from the bins, chop them on the board, grill patties on the stove, stack the dish on a plate, serve it at the window before the ticket timer runs out.</span>
+    <span id="soundToggle" title="toggle sound">🔊 sound on</span>
+  </footer>
+</div>
+<script type="module" src="src/game.js"></script>
+</body>
+</html>
