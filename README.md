@@ -1,8 +1,8 @@
 # 🍳 Sizzle & Serve — Ember Lane Kitchen
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-ff6b4a)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-[![game](https://img.shields.io/badge/game-playable%20offline-5fbf3f)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-[![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/Arkanjak/best-cooking-game-20261125-0137/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/Arkanjak/best-cooking-game-20261125-0137/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 **Make the best cooking game** — a $250 make.fun bounty entry. A complete,
 original lunch-rush cooking game that runs entirely offline in a desktop
